@@ -1,0 +1,29 @@
+2023-04-02 21:46:49.836914 - Initialized conversion of CBT1024
+2023-04-02 21:46:50.040318 - Received CBT.V504.FILE1024.PDS from FILE1024.XMI 
+2023-04-02 21:46:50.043327 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:46:50.044496 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/$$NOTE01
+2023-04-02 21:46:50.045687 - Found @FIL1024.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/@FIL1024
+2023-04-02 21:46:50.045698 - Found CONCAT.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.045832 - Found CONCAT.zip (application/zip), extracting to CBT1024/CONCAT
+2023-04-02 21:46:50.048044 - Found CONCAT#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/CONCAT#
+2023-04-02 21:46:50.048055 - Found CSFXFER.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.048141 - Found CSFXFER.zip (application/zip), extracting to CBT1024/CSFXFER
+2023-04-02 21:46:50.050927 - Found CSFXFER#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/CSFXFER#
+2023-04-02 21:46:50.050936 - Found CSIREXX.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.051006 - Found CSIREXX.zip (application/zip), extracting to CBT1024/CSIREXX
+2023-04-02 21:46:50.055442 - Found CSIREXX#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/CSIREXX#
+2023-04-02 21:46:50.056667 - Found ICHRCX0#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/ICHRCX0#
+2023-04-02 21:46:50.056675 - Found ICHRCX02.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.056757 - Found ICHRCX02.zip (application/zip), extracting to CBT1024/ICHRCX02
+2023-04-02 21:46:50.057218 - Found RACFREE.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.057270 - Found RACFREE.zip (application/zip), extracting to CBT1024/RACFREE
+2023-04-02 21:46:50.058533 - Found RACFREE#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/RACFREE#
+2023-04-02 21:46:50.059669 - Found RACSNOO#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/RACSNOO#
+2023-04-02 21:46:50.059677 - Found RACSNOOP.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.059762 - Found RACSNOOP.zip (application/zip), extracting to CBT1024/RACSNOOP
+2023-04-02 21:46:50.065249 - Found REXXENQ#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/REXXENQ#
+2023-04-02 21:46:50.065261 - Found REXXENQ0.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.065351 - Found REXXENQ0.zip (application/zip), extracting to CBT1024/REXXENQ0
+2023-04-02 21:46:50.066112 - Found TICKET.zip (application/zip), trying to unzip
+2023-04-02 21:46:50.066191 - Found TICKET.zip (application/zip), extracting to CBT1024/TICKET
+2023-04-02 21:46:50.068648 - Found TICKET#.txt (text/plain) in CBT.V504.FILE1024.PDS, moved to PDS/TICKET#
